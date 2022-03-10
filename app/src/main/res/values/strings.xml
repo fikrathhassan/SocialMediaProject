@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocialMediaProject</string>
+    <string name="title_videos">Feed</string>
+    <string name="title_myPost">My Posts</string>
+    <string name="title_createPost">Add Post</string>
+    <string name="title_account">Account</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="title_progress">Loading</string>
+</resources>

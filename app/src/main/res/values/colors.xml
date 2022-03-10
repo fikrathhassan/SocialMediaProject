@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#4C04B5</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="divider">#000000</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="profileBgStart">#5A437C</color>
+    <color name="profileBgEnd">#FF6200EE</color>
+    <color name="buttonBgStart">#5A437C</color>
+    <color name="buttonBgEnd">#FF6200EE</color>
+    <color name="generalButton">#437C5A</color>
+
+    <color name="black">#000000</color>
+    <color name="black10">#10000000</color>
+    <color name="black30">#10000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#009688</color>
+    <color name="yellow">#ffff00</color>
+</resources>
